@@ -1,0 +1,11 @@
+diff --git a/config.py b/config.py
+--- a/config.py
++++ b/config.py
+@@ -1,5 +1,6 @@
+ # demo fixture — fake secrets only
+-API_KEY = "plain-old-placeholder"
++API_KEY = "ghp_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
++AWS_KEY = "AKIAIOSFODNN7EXAMPLE"
++password = "hunter2hunter2"
+ def main():
+     print("hello")
